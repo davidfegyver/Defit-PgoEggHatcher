@@ -1,0 +1,23 @@
+locations:
+    pokeball_button: [540, 2000]
+    pokemon_list_button: [240, 1840]
+    eggs_tab: [870, 180]
+    first_egg_distance_box: [80, 735, 285, 800]
+    incubate_button_box: [430, 1450, 650, 1520]
+    incubator_uses_left_box: [50, 1780, 230, 1850]
+
+    im_a_passenger_button_box: [320, 1425, 760, 1560]
+    eggs_label_box: [810, 340, 930, 400]
+    oh_hatching_box: [450, 680, 640, 785]
+    second_app_position: [800, 1050]
+    settings_button_box: [740, 250, 960, 320]
+
+waits:
+    pokeball_button: 2
+    pokémon_list_button: 3
+    eggs_tab: 3
+    first_egg_distance_box: 3
+    incubate_button_box: 3
+    incubator_uses_left_box: 5
+    pokemon_go_plus_button: 5
+    settings_button_box: 4

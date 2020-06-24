@@ -1,0 +1,4 @@
+asyncio
+pillow
+pyyaml
+pyocr
