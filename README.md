@@ -30,4 +30,5 @@ Pull requests are welcome.
 ## TODO
 
 Auto config
-
+Comments
+Make it english
