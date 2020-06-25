@@ -107,6 +107,7 @@ class Main:
         await self.tap('im_a_passenger_button_box')
         await asyncio.sleep(20)
         await self.tap('pokeball_button')
+        await self.tap('pokeball_button')
         self.egg_walked += 1
         print("Eddíg {} tojást keltettél ki.".format(self.egg_walked))
 
