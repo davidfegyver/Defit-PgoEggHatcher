@@ -86,7 +86,7 @@ class Main:
         await self.check_my_eggs()
         remainingKM = self.distance_total - self.distance_walked
         remainingTime = remainingKM / self.speed 
-        remainingTime = round(remainingTime*60)
+        remainingTime = round(remainingTime*60*60)
         print(remainingKM,remainingTime)
         return(remainingKM, remainingTime)
     #Tojás cuccok
