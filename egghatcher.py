@@ -26,7 +26,7 @@ class Main:
         self.egg_walked = 0
         self.distance_total = 0
         self.distance_walked = 0
-        self.speed = float(input("Mennyivel mész? km/h "))*60
+        self.speed = float(input("Mennyivel mész? km/h "))
 
     async def tap(self, location):
         coordinates = self.config['locations'][location]
@@ -86,7 +86,7 @@ class Main:
         await self.check_my_eggs()
         remainingKM = self.distance_total - self.distance_walked
         remainingTime = remainingKM / self.speed 
-        remainingTime = round(remainingTime)
+        remainingTime = round(remainingTime*60)
         print(remainingKM,remainingTime)
         return(remainingKM, remainingTime)
     #Tojás cuccok
