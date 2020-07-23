@@ -1,4 +1,6 @@
 # Defit-PgoEggHatcher
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidfegyver%2FDefit-PgoEggHatcher.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidfegyver%2FDefit-PgoEggHatcher?ref=badge_shield)
+
 
 This bot hatches eggs continously, using defit.
 
@@ -32,3 +34,7 @@ Pull requests are welcome.
 Auto config
 Comments
 Make it english
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidfegyver%2FDefit-PgoEggHatcher.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidfegyver%2FDefit-PgoEggHatcher?ref=badge_large)
