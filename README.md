@@ -50,11 +50,11 @@ If you have any problems write an email to me: `fegyverdavid.bator@gmail.com` or
 
 
 ## :handshake: Contributing
-If you got an idea or there are some bugs in the project, open a **Pull requestet**. 
+If you got an idea or there are some bugs in the project, open a **Pull request**. 
 
-**Ha tetszett a projekt adhadsz is egy csillagot :D**
+** If you liked this project please give me a star :D**
 
-## 📝 Liszensz
+## 📝 License
 
 **MIT**
 https://choosealicense.com/licenses/mit/
