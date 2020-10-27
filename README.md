@@ -1,34 +1,60 @@
-# Defit-PgoEggHatcher
+# <p align="center">Defit-PgoEggHatcher</p>
 
-This bot hatches eggs continously, using defit.
+This bot hatches Pokemon Go eggs continously, using defit.
+## :robot: Telepítés
 
-## Installation
+All requied libraries are listed in the [`requirements.txt`](https://github.com/davidfegyver/Defit-PgoEggHatcher/blob/main/requirements.txt).
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
+0. Open a terminal
 
-```bash
-pip install -r requirements.txt
+1. Clone this repo
+```
+$ git clone https://github.com/davidfegyver/Defit-PgoEggHatcher/
 ```
 
-You need the [Tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/Downloads) too.
+2. Enter the downloaded directory
+```
+$ cd Defit-PgoEggHatcher/
+```
+
+3. Enter this to install the required libraries. The installing time may vary depending of your internet speed.
+```
+$ pip3 install -r requirements.txt
+
+```
+
+## :bulb: Futtatás
+1. Edit the config.yaml depending on your phone
+2. Enable USB debugging on your phone
+3. Open defit, Turn it on
+4. Open Pokemon Go
+5. Run the EggHatcher.py: `python3 egghatcher.py`
+## Images 
+
+TODO
+
+## 🖥️ Used libraries/projects
+
+TODO
+
+## TODO:
+* FIX BUGS
+* Auto config
+* Comments for easier understanding
+* Make it english
+* Hungarian README
+* Give other ideas :D
+
+## 🎉 Thanks for watching
+If you have any problems write an email to me: `fegyverdavid.bator@gmail.com` or open an issue here: [Defit-PgoEggHatcher](https://github.com/davidfegyver/Defit-PgoEggHatcher/issues)
 
 
-## Usage
-Edit the config.yaml
+## :handshake: Contributing
+If you got an idea or there are some bugs in the project, open a **Pull requestet**. 
 
-Enable USB debugging on your phone
+**Ha tetszett a projekt adhadsz is egy csillagot :D**
 
-Open defit, Turn it on
-Open Pokemon Go
-Run the EggHatcher.py
+## 📝 Liszensz
 
-
-
-## Contributing
-Pull requests are welcome.
-
-## TODO
-
-Auto config
-Comments
-Make it english
+**MIT**
+https://choosealicense.com/licenses/mit/
