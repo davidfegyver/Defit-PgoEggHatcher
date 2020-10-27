@@ -1,7 +1,7 @@
 # <p align="center">Defit-PgoEggHatcher</p>
 
 This bot hatches Pokemon Go eggs continously, using defit.
-## :robot: Telepítés
+## :robot: Install
 
 All requied libraries are listed in the [`requirements.txt`](https://github.com/davidfegyver/Defit-PgoEggHatcher/blob/main/requirements.txt).
 
@@ -23,7 +23,7 @@ $ pip3 install -r requirements.txt
 
 ```
 
-## :bulb: Futtatás
+## :bulb: Run
 1. Edit the config.yaml depending on your phone
 2. Enable USB debugging on your phone
 3. Open defit, Turn it on
